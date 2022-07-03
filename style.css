@@ -1,13 +1,8 @@
 .h1{
     font-size: x-large;
+    background-color: aqua;
 }
 .p{
     font-size: medium;
-}
-.p1{
-font-size: xx-large;
-background-color: blueviolet;
-}
-.p2{
-background-color: aqua;
+    background-color: aquamarine;
 }
